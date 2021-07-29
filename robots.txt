@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://rajith19.github.io/Assignment10/sitemap.xml
